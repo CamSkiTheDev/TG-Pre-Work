@@ -1,0 +1,13 @@
+p {
+    font-family: Arial;
+  }
+
+h1 {
+color: maroon;
+}
+
+.title {
+    color: teal;
+}
+
+/* Learned how to select an html element in css using the (class) attribute and prepending the class name with a period. */
