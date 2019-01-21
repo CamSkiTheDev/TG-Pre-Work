@@ -1,0 +1,7 @@
+p{
+    font-family: arial;
+}
+
+/* I know this is not an inline style but the file type is css so. I converted it. */
+/* Same Code as above but and inline example */
+/* <p style="font-family: arial;">lorem ipsum</p> */
