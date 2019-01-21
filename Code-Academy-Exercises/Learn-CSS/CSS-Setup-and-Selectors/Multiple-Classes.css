@@ -1,0 +1,17 @@
+p {
+    font-family: Arial;
+  }
+
+h1 {
+color: maroon;
+}
+
+.title {
+color: teal;
+}
+
+.uppercase {
+text-transform: uppercase;
+}
+
+/* Learned that an html element can have multiple class names. These name are seprated by a space. */
