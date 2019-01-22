@@ -82,6 +82,7 @@ h1, h2 {
 p {
     font-family: Helvetica;
     font-size: 18px;
+    font-weight: bold;
 }
 
-/* Learned how to change the font size of an html element using the css (font-size) property. */
+/* Learned how to change how bold text is using the css (font-weight) property. */
