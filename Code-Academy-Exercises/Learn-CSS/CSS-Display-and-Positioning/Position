@@ -1,0 +1,7 @@
+Static | The browsers default position and each element will take up space on its own line
+
+Relative | Allows you to position an element relative to its static position. using (top, bottom, left, right)
+
+Absolute | All other element will ignore the element and act like it is not present on the page. The element will be position relative to is closed positioned parent.
+
+Fixed | The element will be fixed to its specific position, regardless of user scrolling. The element is also removed from the flow of the DOM.
