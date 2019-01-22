@@ -1,0 +1,3 @@
+Content-Box box model | width + padding + border = actual rendered width of an element's box.
+
+Border-Box box model | The width property is the same as the actual rendered width of an element. The content area is automatically resized based on the remaing width, after border and padding has been subtracted.
