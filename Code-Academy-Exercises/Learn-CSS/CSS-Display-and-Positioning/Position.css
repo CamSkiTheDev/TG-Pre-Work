@@ -6,6 +6,8 @@ body {
   header {
     background-color: #466995;
     border-bottom: 1px solid #466995;
+    position: fixed;
+    width: 100%;
   }
   
   ul {
@@ -79,10 +81,13 @@ body {
     padding: 40px;
     text-align: center;
     width: 100%;
+    position: relative; 
+    top: 200px;
   }
   
   .question {
-    position: static;
+    position: relative;
+    top: 40px;
     text-align: center;
   }
   
@@ -97,3 +102,5 @@ body {
   }
 
   /* Learned that the default position value is static and that each element will by defualt take up their own line of space */
+
+  /* Also learned each type of position value (fixed, relative, static, absolute) and how they make elements react in the DOM. */
