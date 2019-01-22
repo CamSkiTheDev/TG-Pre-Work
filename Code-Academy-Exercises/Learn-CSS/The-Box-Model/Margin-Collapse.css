@@ -1,0 +1,9 @@
+/* the margin to the left and righ add up and the sum is the space between those elements (div 1 - margin: 0 20px) (div 2 - margin: 0 20px) */
+
+/* The total space between the elements would be 40px */
+
+/* On the other hand the top and bottom margins collapse */
+
+/* (div 1 - margin: 20px 0) (div 2 - margin: 30px 0) */
+
+/* although the sum would be 50px the top and bottom margins collapse so the space between the two elements would be 30px */
