@@ -11,3 +11,9 @@ changeMe = false;
 console.log(changeMe);
 
 //Learned how to create a veriable using let and camel case.
+
+const entree = 'Enchiladas';
+
+console.log(entree);
+
+//Learned how to create a veriable using const.
