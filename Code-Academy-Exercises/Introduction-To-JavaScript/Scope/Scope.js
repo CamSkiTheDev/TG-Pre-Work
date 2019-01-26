@@ -1,0 +1,1 @@
+//Learned that scope refers to where a variable is accessed or can be referenced.
