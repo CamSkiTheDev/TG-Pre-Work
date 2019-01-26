@@ -11,4 +11,4 @@ const logVisibleLightWaves = () => {
 
 logVisibleLightWaves();
 
-  //
+//Learned how to use block scope to keep from overwriting global variables.
