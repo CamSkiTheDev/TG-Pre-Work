@@ -1,0 +1,1 @@
+// Learned that variables are containers we can use to lable and store information into memory. using (let) (var) (const)
