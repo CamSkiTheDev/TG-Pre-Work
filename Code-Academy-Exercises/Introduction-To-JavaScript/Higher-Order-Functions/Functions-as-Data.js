@@ -11,4 +11,4 @@ const is2p2 = checkThatTwoPlusTwoEqualsFourAMillionTimes;
 is2p2();
 console.log(is2p2.name);
 
-  //Learned how to set a function to a variable to make it easier to read and use throught out our program.
+//Learned how to set a function to a variable to make it easier to read and use throught out our program.
