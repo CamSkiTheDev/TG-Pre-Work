@@ -10,4 +10,4 @@ let spaceship = {
 const crewCount = spaceship.numCrew;
 const planetArray = spaceship.flightPath;
 
-//Learned how to access properties of an object using dot notation and its key value pair.
+//Learned how to access properties of an object using dot notation and its key value.
