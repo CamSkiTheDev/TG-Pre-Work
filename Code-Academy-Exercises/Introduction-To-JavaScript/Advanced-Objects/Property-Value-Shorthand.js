@@ -1,12 +1,16 @@
-const robot = {
-    _energyLevel: 100,
-    recharge() {
-        this._energyLevel += 30;
-        console.log(`Recharged! Energy is currently at ${this._energyLevel}%.`)
+function robotFactory(model, mobile) {
+    return {
+        model,
+        mobile,
+        beep() {
+            console.log('Beep Boop');
+        }
     }
-};
+}
 
-robot._energyLevel = 'high';
-robot.recharge();
+// To check that the property value shorthand technique worked:
+const newRobot = robotFactory('P-501', false)
+console.log(newRobot.model)
+console.log(newRobot.mobile)
 
-//Learned that we can cause unwanted side-effects when mutating a property in a object.
+//Learnd how to use property value shorthands to save us some time and keystrocks.
