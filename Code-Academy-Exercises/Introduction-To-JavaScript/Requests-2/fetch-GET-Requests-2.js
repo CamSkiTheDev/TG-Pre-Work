@@ -9,4 +9,4 @@ fetch('https://api-to-call.com/endpoint').then(response => {
     return jsonResponse;
 });
 
-//Learned how to create the boilerplate for a javascript fetch request.
+//Learned how to create the boilerplate for a javascript get request using the fetch function.
