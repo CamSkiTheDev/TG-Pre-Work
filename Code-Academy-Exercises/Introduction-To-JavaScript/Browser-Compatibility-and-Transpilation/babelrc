@@ -1,0 +1,5 @@
+{
+	"presets": ["env"]
+}
+
+//Learned how to instructs Babel to transpile any code from versions ES6 and later.
