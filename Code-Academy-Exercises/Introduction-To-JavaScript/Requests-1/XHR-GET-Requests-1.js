@@ -1,0 +1,1 @@
+//Learned that we can make request after the initial page load and our request can supports many forms of data.
