@@ -1,0 +1,1 @@
+//Learned that post request are similar to GET request but with POST request we have to send data to the api in the body of the request.
