@@ -1,0 +1,1 @@
+//Learned that we can create a parent class with methods and properties which our childern classes will inherent.
