@@ -33,4 +33,4 @@ const displaySuggestions = (event) => {
 
 submit.addEventListener('click', displaySuggestions);
 
-//
+//Learned how to send a HTTP GET request using the fetch function.
