@@ -1,0 +1,1 @@
+//Learned that the structure of an async HTTP POST request it the same but we now have to include an additional argument that contains more information like method and body.
